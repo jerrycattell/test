@@ -47,6 +47,7 @@ I'm [Max Howell][mxcl] and I'm a splendid chap.
 Patch1
 Work
 C1
+C2
 
 [homepage]:http://mxcl.github.com/homebrew
 [gist]:http://gist.github.com/323731
